@@ -29,7 +29,7 @@ Study Buddy AI is a multi-persona chatbot built using the Gemini API, designed t
 
 ## 📸 Preview
 
-- (assets/screenshot.png)
+- ![Screeshot](assets/screenshot.png)
 
 ---
 
