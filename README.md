@@ -6,6 +6,12 @@ Study Buddy AI is a multi-persona chatbot built using the Gemini API, designed t
 
 ---
 
+## Live Link 
+
+ - Live link - https://ai-chatbot2026.netlify.app/
+
+---
+
 ## 🚀 Features
 
 - 🎓 **Study Buddy** – Explains concepts clearly (Physics, Chemistry, Maths, etc.)
